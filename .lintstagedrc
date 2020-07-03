@@ -1,5 +1,10 @@
 {
-  "*.js": ["eslint --fix", "git add"],
-  "*.jsx": ["eslint --fix", "git add"]
-
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ],
+    "*.jsx": [
+      "eslint --fix",
+      "git add"
+    ]
 }
